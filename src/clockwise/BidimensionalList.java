@@ -1,5 +1,7 @@
 package clockwise;
 
+import clockwise.direction.Direction;
+
 public class BidimensionalList {
     private String[][] lista;
     private int x;

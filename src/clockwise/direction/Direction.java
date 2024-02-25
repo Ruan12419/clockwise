@@ -1,5 +1,6 @@
-package clockwise;
+package clockwise.direction;
 
+import clockwise.BidimensionalList;
 import clockwise.direction.*;
 
 public enum Direction implements DirectionStategy {

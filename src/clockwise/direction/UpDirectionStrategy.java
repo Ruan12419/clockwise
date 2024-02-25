@@ -1,6 +1,5 @@
 package clockwise.direction;
 
-import clockwise.Direction;
 import clockwise.BidimensionalList;
 
 public class UpDirectionStrategy implements DirectionStategy {
